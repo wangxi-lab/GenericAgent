@@ -28,6 +28,7 @@ skill_configs = {
 }
 ```
 
+
 The following environment variable names are also accepted, either from process env, GenericAgent `.env`, or `memory/volc_ark_rag/.env`:
 
 - `VOLCENGINE_ACCESS_KEY_ID`: Volcengine access key. `ARK_ACCESS_KEY_ID` and `VOLC_AK` are also accepted.
